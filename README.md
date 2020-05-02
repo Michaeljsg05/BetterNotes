@@ -1,7 +1,7 @@
 # Better Notes
 
 Better notes is a simple notepad to keep track of things to do or wright down ideas you have while working.
-
+![img](https://raw.githubusercontent.com/Michaeljsg05/michaeljsg05.github.io/master/img/Betternotesv1.0.PNG)
 
 ## Installation
 
